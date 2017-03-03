@@ -1,0 +1,10 @@
+1.本项目只是一个前端框架
+
+2.本项目技术点：nodejs + angularjs + bootstrap + jquery
+
+3.运行步骤：
+  1）安装nodejs
+  2)cd到本项目文件夹后使用命令node index
+  3)在浏览器访问http://localhost:8081/app/index.html
+
+contact: 1095683288@qq.com
